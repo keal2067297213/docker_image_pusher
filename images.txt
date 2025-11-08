@@ -6,3 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm/v7 metacubex/mihomo:v1.19.8
 --platform=linux/arm/v7 tinyserve/clash:2023.08.17 
+
+
+python:3.11-slim
