@@ -8,4 +8,5 @@
 --platform=linux/arm/v7 tinyserve/clash:2023.08.17 
 
 
-python:3.11-slim
+
+shynome/cobweb:v3.2.1
